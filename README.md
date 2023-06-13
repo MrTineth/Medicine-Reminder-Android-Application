@@ -2,6 +2,7 @@
 Medicine Reminder Android Application
 
 UI Screens ScreenShots.
+
 ![Screenshot_20230427_211113](https://github.com/MrTineth/Medicine-Reminder-Android-Application/assets/106744622/40c533f7-f2a1-47b2-bc39-ce6dbdc0c6d1)
 
 ![Screenshot_20230427_210400](https://github.com/MrTineth/Medicine-Reminder-Android-Application/assets/106744622/443a5db6-7e24-4439-b09f-7603372eeb71)
